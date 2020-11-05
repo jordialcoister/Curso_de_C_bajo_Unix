@@ -1,0 +1,5 @@
+Exemple 12: Manca incloure stdlib i seria interessant posar getch() per a que es vegi més clarament l'efecte.
+
+Exemple 20: Falta incloure stdlib.h i string.h
+Exemple 21: Falta incloure stdlib.h el títol està malament
+Exemple 19: Interessant afegir curs_set(FALSE), queda molt lleig el cursor a l'esquerra de l'"*", que jo he canviat per un ">" encara que això va a gustos... és clar...

@@ -1,0 +1,4 @@
+"/handle/2072/9974" := "https://ddd.uab.cat/record/44902",
+"/handle/2072/9975" := "https://ddd.uab.cat/record/44902",
+"/handle/2072/9976" := "https://ddd.uab.cat/record/44902",
+"/handle/2072/9977" := "https://ddd.uab.cat/record/44902"
